@@ -1,0 +1,39 @@
+.contact{
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding-top: 20px;
+}
+.card{
+    border-radius: 5px;
+    border: 1px solid rgba(119, 119, 119, 0.158);
+    width: 40%;
+    margin-left: auto;
+    box-shadow: 0 4px 4px 0 RGB(43 80 237 / 20%);
+    margin-right: auto;
+    padding-top: 20px;
+}
+.avatar{
+    width: 25%;
+    border-radius: 50%;
+    
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+}
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #777;
+    padding: 10px;
+}
+.info{
+    padding: 10px;
+    color: #777;
+}
+.info h4{
+    display: flex;
+}

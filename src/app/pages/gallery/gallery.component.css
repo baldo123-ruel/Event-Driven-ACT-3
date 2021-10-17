@@ -1,0 +1,22 @@
+.card{
+    border-radius: 5px;
+    border: 1px solid rgba(119, 119, 119, 0.158);
+    width: 40%;
+    margin-left: auto;
+    box-shadow: 0 4px 4px 0 RGB(43 80 237 / 20%);
+    margin-right: auto;
+    padding-top: 20px;
+}
+.img{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.title{
+    width: 100%;
+    color: #555;
+    font-size: 25px;
+   text-align: center;
+}
